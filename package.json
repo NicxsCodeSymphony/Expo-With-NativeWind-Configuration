@@ -1,5 +1,5 @@
 {
-  "name": "prodora",
+  "name": "create-expo-app",
   "version": "1.0.0",
   "scripts": {
     "android": "expo start --android",
