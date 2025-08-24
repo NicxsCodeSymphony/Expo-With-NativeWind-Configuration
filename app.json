@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "prodora",
-    "slug": "prodora",
-    "scheme": "prodora",
+    "name": "create-expo-app",
+    "slug": "create-expo-app",
+    "scheme": "create-expo-app",
     "version": "1.0.0",
     "web": {
       "favicon": "./assets/favicon.png"
